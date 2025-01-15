@@ -4,6 +4,20 @@
 - 🌱 Estou atualmente aprendendo Postgresql, Java e Eclipse.
 - ⚡ Fato sobre mim: Estou tentando a transição de carreira.
 - 😄 Pronomes: ela/dela
+
+ 
+
+  <picture>
+      <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ValeryAlves&show_icons=true&theme=dracula"
+          media="(prefers-color-scheme: dark)"/>
+      <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ValeryAlves&show_icons=true&theme=dracula"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ValeryAlves&show_icons=true&theme=dracula" />
+  </picture>
+
+  ##
   
   <div style="display: inline_block"><br>
       <img align="center" alt="Valery-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
