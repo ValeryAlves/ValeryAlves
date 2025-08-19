@@ -1,10 +1,10 @@
-## Olá, eu sou a Valéria Alves 👋
+## Oi, eu sou a Valéria Alves 👋
 
-- 🔭 Estou atualmente fazendo o Curso de **Sistemas Para Internet**.  
-- 🌱 Estou aprendendo **PostgreSQL, Java e Eclipse**.  
-- 💻 Interesses: Desenvolvimento Web, Back-End e Banco de Dados.  
-- ⚡ Fato sobre mim: Estou em transição de carreira.  
-- 😄 Pronomes: **ela/dela**  
+- 🔭 Cursando **Sistemas para Internet** no IFMT.  
+- 🌱 Estou me aprofundando em **PostgreSQL e Python**.  
+- 💻 Tenho interesse em **Desenvolvimento Web, Back-End e Banco de Dados**.  
+- ⚡ Curiosidade: estou em processo de **transição de carreira** para a área de tecnologia.  
+- 😄 Pronomes: **ela/dela** 
 
 ---
 
