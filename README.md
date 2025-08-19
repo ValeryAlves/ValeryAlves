@@ -33,6 +33,7 @@
   <img align="center" alt="Valery-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Valery-Postgresql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="Valery-Eclipse" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-14-282371.png">
+  <img align="center" alt="Valery-Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg">
 </div>
 
 ---
