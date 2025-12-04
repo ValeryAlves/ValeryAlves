@@ -10,8 +10,8 @@
 
 ### 📊 Minhas estatísticas:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeryalves&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeryalves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=valeryalves&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valeryalves&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
@@ -25,15 +25,29 @@
 
 ### 🚀 Tecnologias já utilizadas:
 <div style="display: inline_block"><br>
+
+  <!-- Web -->
   <img align="center" alt="Valery-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Valery-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Valery-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Valery-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+
+  <!-- Linguagens -->
   <img align="center" alt="Valery-Java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp">
   <img align="center" alt="Valery-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Valery-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+
+  <!-- Frameworks -->
+  <img align="center" alt="Valery-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Valery-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+  <!-- Banco de dados -->
   <img align="center" alt="Valery-Postgresql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+
+  <!-- Ferramentas -->
   <img align="center" alt="Valery-Eclipse" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-14-282371.png">
   <img align="center" alt="Valery-Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg">
+
 </div>
 
 ---
@@ -46,7 +60,7 @@
   <a href="https://www.linkedin.com/in/val%C3%A9ria-alves-de-sousa-371111167/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-    <a href="https://www.instagram.com/valery_alves/" target="_blank">
+  <a href="https://www.instagram.com/valery_alves/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
@@ -55,6 +69,5 @@
 
 ### 👀 Visitantes
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ValeryAlves&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=valeryalves&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
-
