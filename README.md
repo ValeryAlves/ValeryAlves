@@ -19,11 +19,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄 Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,9 +31,9 @@
 ---
 
 ## 🌟 Projetos em destaque
-🔹 Sistema Agenda Java  
-🔹 Projeto Web Django + Bootstrap  
-🔹 App Flutter  
+🔹 Loja Virtual desenvolvida em HTML, CSS e JavaScript
+🔹 Sistema de Agendamento e Controle de Atendimento desenvolvido em Dart (Flutter)
+🔹 Projeto de Gerenciamento de usuários, categorias e carrinho de compras desenvolvido em Django
 
 ---
 
