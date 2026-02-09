@@ -1,70 +1,49 @@
 ## Oi, eu sou a Valéria Alves 👋
 
-- 🔭 Cursando **Sistemas para Internet** no IFMT.  
-- 🌱 Estou me aprofundando em **PostgreSQL e Python**.  
-- 💻 Tenho interesse em **Desenvolvimento Web, Back-End e Banco de Dados**.  
-- ⚡ Curiosidade: estou em processo de **transição de carreira** para a área de tecnologia.  
-- 😄 Pronomes: **ela/dela** 
+🎓 Cursando **Sistemas para Internet** no IFMT  
+🐍 Estudando **Python e PostgreSQL**  
+💻 Focada em **Desenvolvimento Web e Back-End**  
+🚀 Em **transição de carreira para Tecnologia**  
+😄 Pronomes: ela/dela  
 
 ---
 
-### 📊 Minhas estatísticas:
+## 🚀 Tecnologias
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valeryalves&show_icons=true)
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valeryalves&layout=compact)
+### 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+### ⚙️ Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=valeryalves&theme=dracula&row=1&column=6" />
-</p>
-
-
----
-
-### 🚀 Tecnologias já utilizadas:
-<div style="display: inline_block"><br>
-
-  <!-- Web -->
-  <img align="center" alt="Valery-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Valery-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Valery-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Valery-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-
-  <!-- Linguagens -->
-  <img align="center" alt="Valery-Java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-java-2038875-1720088.png?f=webp">
-  <img align="center" alt="Valery-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Valery-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-
-  <!-- Frameworks -->
-  <img align="center" alt="Valery-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Valery-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
-  <!-- Banco de dados -->
-  <img align="center" alt="Valery-Postgresql" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-
-  <!-- Ferramentas -->
-  <img align="center" alt="Valery-Eclipse" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-14-282371.png">
-  <img align="center" alt="Valery-Cisco" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg">
-
-</div>
+### 🗄 Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 📫 Como me encontrar:
-<div> 
-  <a href="mailto:valeryalvess@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/val%C3%A9ria-alves-de-sousa-371111167/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/valery_alves/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+## 🌟 Projetos em destaque
+🔹 Sistema Agenda Java  
+🔹 Projeto Web Django + Bootstrap  
+🔹 App Flutter  
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valeryalvess@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9ria-alves-de-sousa-371111167/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valery_alves/)
 
 ---
 
