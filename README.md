@@ -32,8 +32,11 @@
 
 ## 🌟 Projetos em destaque
 🔹 Loja Virtual desenvolvida em HTML, CSS e JavaScript
+
 🔹 Sistema de Agendamento e Controle de Atendimento desenvolvido em Dart (Flutter)
+
 🔹 Projeto de Gerenciamento de usuários, categorias e carrinho de compras desenvolvido em Django
+
 
 ---
 
